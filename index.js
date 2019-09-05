@@ -8,7 +8,7 @@ var katzDeliLine = [];
 function takeANumberTwo (){
   var linePlacement = 0
   linePlacement += 1
-  console.log( `welcome customer your number is ${linePlacement}`)
+  console.log(`welcome customer your number is ${linePlacement}`)
 }
 
 takeANumberTwo()
