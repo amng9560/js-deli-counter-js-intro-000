@@ -5,6 +5,12 @@ var katzDeliLine = [];
   return `Welcome, ${personName}. You are number ${katzDeliLine.length} in line.`;
 }
 
+function takeANumberTwo (katzDeliLine){
+  var linePlacement = 0
+  linePlacement += 1
+  return `welcome customer your number is ${linePlacement}`
+}
+
  function nowServing(katzDeliLine) {
   if (katzDeliLine.length > 0) {
     var personName = katzDeliLine[0];
