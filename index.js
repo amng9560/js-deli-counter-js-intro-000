@@ -12,6 +12,7 @@ function takeANumberTwo (){
 }
 
 takeANumberTwo()
+
 takeANumberTwo()
 
  function nowServing(katzDeliLine) {
