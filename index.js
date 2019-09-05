@@ -5,8 +5,8 @@ var katzDeliLine = [];
   return `Welcome, ${personName}. You are number ${katzDeliLine.length} in line.`;
 }
 
+var linePlacement = 0
 function takeANumberTwo (){
-  var linePlacement = 0
   linePlacement += 1
   console.log(`welcome customer your number is ${linePlacement}`)
 }
